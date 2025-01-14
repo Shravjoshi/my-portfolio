@@ -27,7 +27,7 @@ const Hero = () => {
           </a>
 
           <a
-            href="path/to/resume.pdf" // Replace with your actual resume link
+            href="public\Shravani Joshi Fullstack Developer CV.pdf" // Replace with your actual resume link
             className="inline-block px-6 py-3 bg-white text-purple-700 font-semibold rounded-lg shadow-md transition-all duration-300"
             download
           >
