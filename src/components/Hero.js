@@ -14,7 +14,7 @@ const Hero = () => {
 
         {/* Subheadline with skills */}
         <p className="text-lg md:text-xl mb-6 max-w-lg mx-auto text-gray-300">
-          Hi, I'm <span className="font-semibold">Shravani Joshi</span>, a passionate Software Developer specializing in creating intuitive and responsive web applications.
+          Hi, I'm <span className="font-bold">SHRAVANI JOSHI</span>, a passionate and enthusiastic Fullstack Developer specializing in creating intuitive and responsive web applications.
         </p>
 
         {/* Call-to-Action Buttons */}

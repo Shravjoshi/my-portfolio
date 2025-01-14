@@ -3,7 +3,7 @@ import { FaLinkedin, FaGithub, FaTwitter, FaEnvelope } from 'react-icons/fa';
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white py-8 text-center">
-      <p>&copy; 2025 Your Name. All rights reserved.</p>
+      <p>&copy; 2025 Shravani Joshi. All rights reserved.</p>
       <div className="flex justify-center gap-6 mt-4">
         {/* Email Link */}
         <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">

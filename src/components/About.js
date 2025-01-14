@@ -14,7 +14,7 @@ const About = () => {
 
         {/* Description */}
         <p className="text-lg md:text-xl mb-6 max-w-3xl mx-auto leading-relaxed text-center">
-          I’m a passionate software developer with experience in front-end and back-end development. I specialize in building web applications using React, Tailwind CSS, Node.js, and MongoDB. I am always eager to learn new technologies and improve my skills in this ever-evolving tech world.
+          I’m a passionate software developer with experience in front-end and back-end development. I specialize in building web applications using React, asp.net, java, rest api, mysql, Node.js, and MongoDB. I am always eager to learn new technologies and improve my skills in this ever-evolving tech world.
         </p>
 
         {/* Experience List with Cards */}
