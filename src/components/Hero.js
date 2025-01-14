@@ -20,7 +20,7 @@ const Hero = () => {
         {/* Call-to-Action Buttons */}
         <div className="flex space-x-4 mt-6">
           <a
-            href="#projects"
+            href="#about"
             className="inline-block px-6 py-3 bg-purple-700 hover:bg-purple-800 text-white font-semibold rounded-lg shadow-md transition-all duration-300"
           >
             See My Work
