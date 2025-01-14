@@ -76,7 +76,6 @@ const Contact = () => {
 
         {/* Social Links */}
         <div className="mt-12 text-center">
-          <h3 className="text-2xl font-bold mb-6">Follow Me</h3>
           <div className="flex justify-center gap-8">
             <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-linkedin text-3xl text-purple-600 hover:text-purple-800"></i>

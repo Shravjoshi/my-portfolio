@@ -19,7 +19,7 @@ const Skills = () => {
               </div>
 
               <div className="flex justify-between items-center">
-                <span>HTML</span>
+                <span>HTML & CSS</span>
                 <span>85%</span>
               </div>
               <div className="w-full bg-gray-700 rounded-full h-2 mb-4">
@@ -27,8 +27,8 @@ const Skills = () => {
               </div>
 
               <div className="flex justify-between items-center">
-                <span>CSS</span>
-                <span>80%</span>
+                <span>Webflow</span>
+                <span>60%</span>
               </div>
               <div className="w-full bg-gray-700 rounded-full h-2 mb-4">
                 <div className="bg-purple-600 h-2 rounded-full w-4/5"></div>
@@ -49,7 +49,7 @@ const Skills = () => {
             <h3 className="text-2xl font-semibold text-purple-500 mb-4">Backend</h3>
             <div className="space-y-6">
               <div className="flex justify-between items-center">
-                <span>Node.js</span>
+                <span>Dot Net</span>
                 <span>80%</span>
               </div>
               <div className="w-full bg-gray-700 rounded-full h-2 mb-4">
@@ -57,7 +57,7 @@ const Skills = () => {
               </div>
 
               <div className="flex justify-between items-center">
-                <span>Express</span>
+                <span>Java</span>
                 <span>75%</span>
               </div>
               <div className="w-full bg-gray-700 rounded-full h-2 mb-4">
